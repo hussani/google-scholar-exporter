@@ -1,0 +1,12 @@
+cff-version: 1.0.3
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hussani
+    given-names: Oliveira
+    orcid: "0009-0002-2606-2982"
+title: "Google Scholar Exporter"
+version: "0.0.1"
+date-released: "2024-05-19"
+url: "https://github.com/hussani/google-scholar-exporter"
+repository-code: "https://github.com/hussani/google-scholar-exporter"
+license: "MIT"
